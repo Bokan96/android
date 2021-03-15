@@ -29,3 +29,7 @@ Hajlajtuje sintaksu navedenog jezika
 ```
 
 [Link](https://youtu.be/8UVNT4wvIGY) i ![Slika](/slike/primer.jpg)
+
+- [x] @Bokan96, #android, [links](github.com), **formatting**, and <del>tags</del>
+- [x] cekirano
+- [ ] nije cekirano
