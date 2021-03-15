@@ -25,7 +25,7 @@ Hajlajtuje sintaksu navedenog jezika
 
 **Bold** , _Italic_ , `Code` tekst
 
-[Link](url) and ![Slika](source)
+[Link](url) i ![Slika](source)
 ```
 
-[Link](https://youtu.be/8UVNT4wvIGY) and ![Slika](/slike/primer.png)
+[Link](https://youtu.be/8UVNT4wvIGY) i ![Slika](/slike/primer.jpg)
