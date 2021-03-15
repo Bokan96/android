@@ -30,6 +30,6 @@ Hajlajtuje sintaksu navedenog jezika
 
 [Link](https://youtu.be/8UVNT4wvIGY) i ![Slika](/slike/primer.jpg)
 
-- [x] @Bokan96, #android, [links](github.com), **formatting**, and <del>tags</del>
+- [x] @Bokan96, #android, [link](github.com), **formatiranje**, and <del>tagovi</del>
 - [x] cekirano
 - [ ] nije cekirano
